@@ -1,4 +1,4 @@
-exports[`test Todo component renders the todo correctly 1`] = `
+exports[`Todo component renders the todo correctly renders correctly 1`] = `
 <div
   className="todo  todo-1">
   <p
